@@ -18,3 +18,9 @@ Python version: 3
 cluster with 2 node (1 is master(worker) and 1 is node)
 worker is server - VM run script which you created..
 Master is virtual machine that orchestrate all scripts execution ..
+![image](https://user-images.githubusercontent.com/43515480/234463757-92903eea-e4dc-4099-b44d-7c4c62b95694.png)
+inside notebook we can write scripts <br/>
+![image](https://user-images.githubusercontent.com/43515480/234463852-707275cc-d1d8-41dd-bec4-eb08d319a82c.png)
+![image](https://user-images.githubusercontent.com/43515480/234463909-9068f0d8-ed2b-48ab-a888-f2bb419555e4.png)
+![image](https://user-images.githubusercontent.com/43515480/234464342-88b7bfa7-3bdc-4b43-b930-ba4a0b8742e7.png)
+![image](https://user-images.githubusercontent.com/43515480/234464359-ae6e7cb9-2f75-40a4-a5f5-99dcd57fd72d.png)
